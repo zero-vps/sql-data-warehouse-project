@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 💫 About Me
 
-Hi there! I'm ** Flash ** , also known as ** Flash **. I'm an Finance professional and passionate to learn about to Data & Data Engineering.
+Hi there! I'm **Flash**. I'm an Finance professional and passionate to learn about to Data & Data Engineering.
